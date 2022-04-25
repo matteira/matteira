@@ -1,16 +1,23 @@
-### Hi there 👋
+## *Hi there 👋 I'm Gabriel*
 
-<!--
-**matteira/matteira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## *About me ✔️*
+Java language developer 🍵, studying Information System, at Centro Universitário Senac. Strong collaborator able to learn quickly and apply new technologies.
 
-Here are some ideas to get you started:
+## *My personal project 💪🏼*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://matteira.github.io/
+
+## *What i've seen so far 💻*
+
+| | | | | | |
+  | :-: | :-: | :-: | :-: | :-: | :-: |
+| JAVA | HTML | CSS | JS | MySQL | GIT |
+
+## *Socials*
+
+*📱 @matteira*
+*🐤 @matteira*
+*🐱 @mattiera*
+
+---
+## *FROM 🇧🇷*
