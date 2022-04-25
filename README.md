@@ -16,8 +16,10 @@ https://matteira.github.io/
 ## *Socials*
 
 *📱 @matteira*
+<br>
 *🐤 @matteira*
-*🐱 @mattiera*
-
+<br>
+*🐱 @matteira*
+<br>
 ---
 ## *FROM 🇧🇷*
